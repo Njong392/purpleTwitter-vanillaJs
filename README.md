@@ -14,4 +14,5 @@ This has not been hosted yet.
 For this project, I used;
 - HTML/CSS
 - Tailwind CSS
+
 As time goes on however, this will be updated with React. A database will be added in (far, far) future, and I'll get to working with APIs perhaps.
