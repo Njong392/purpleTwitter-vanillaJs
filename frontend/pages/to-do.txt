@@ -1,5 +1,0 @@
-
-- Handle them hover states already!
-- align notifications with notifications
-- fix all fixed navs
-- make it responsive on ipads.
